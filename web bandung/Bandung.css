@@ -64,7 +64,6 @@ nav a.hover {
 }
 
 nav li{
-    display: inline;
     list-style-type: none;
     margin-right: 20px;
 }
